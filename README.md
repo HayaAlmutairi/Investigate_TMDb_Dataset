@@ -3,3 +3,6 @@ This is my repository for the project and files for the second project in the Ud
 
 # Description
 The goal of this project is to choose a dataset from the available choices and then go through the data analysis process. This project utilized the following Python libraries: Numpy, Pandas, Matplotlib. Finally, everything came together for conclusions. The specific dataset I use in this project is "TMDb_Movie" and i answered some quesions with exploring and analysing the data.
+
+My Blog in medium that Conclude the results:
+https://medium.com/@Haya-sm/insight-on-the-movie-database-tmdb-2b544ec0b361
